@@ -4,4 +4,4 @@
 制作：wjy
 
 ## 在gh-pages分支上展示HTML
-Github用户名.github.io/创建的仓库名/HTML名
+Github的用户名.github.io/创建的仓库名/HTML名
